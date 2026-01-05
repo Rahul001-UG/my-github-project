@@ -9,3 +9,5 @@ Line modified in master branch
 Line modified in feature-A branch
 >>>>>>> feature-A
 Change 1
+Change 
+Temporary change
